@@ -3,7 +3,7 @@ Company:CODETECH IT SOLUTION\
 ID:CT12FDE\
 Domain:SQL\
 Duration:December 20th, 2024 to February 20th, 2025**\
-## Hotel Booking Management System 
+## Hotel Booking Management System \
 ---
 **TASK:**
 Create a database for managing hotel bookings, including rooms, customers, reservations, and payments. This project involves handling complex queries and managing booking data.
@@ -24,37 +24,37 @@ features a clean, user-friendly interface and enables users to view and manage k
 efficiently.\
 
 **• Features**
-**1. Room Management:**\
+**1. Room Management:**
 1. Add new rooms with attributes like room number, type, and price per night.\
 2. View existing room details in a tabular format.\
-**2. Customer Management:**\
+**2. Customer Management:**
 1. Add new customer information, including name, email, and phone number.\
 2. View the customer database.\
-**3. Reservation Management:**\
+**3. Reservation Management:**
 1. Record reservations with details like customer ID, room ID, check-in, and check-out dates.\
 2. View reservations in a detailed table.\
-**4.Payment Management:**\
+**4.Payment Management:**
 Manage payments with details like reservation ID, payment date, amount, and payment method.\
 View all payment transactions in a tabular format.\
-**Interactive GUI**:\
+**Interactive GUI**:
 Buttons to view details for rooms, customers, reservations, and payments.\
 Pop-up windows displaying database tables with a clean and scrollable layout.\
 Light blue theme for the GUI with a bold header.\
 **System Architecture Frontend**\
-**•Python Tkinter:**\
+**•Python Tkinter:**
 • Used for designing the graphical user interface (GUI).\
-• Includes buttons, labels, and tree views for displaying data.
-**Backend**\
-**•MySQL Database:**\
+• Includes buttons, labels, and tree views for displaying data.\
+**Backend**
+**•MySQL Database:**
 • Four tables: Rooms, Customers, Reservations, and Payments.\
 • Queries are dynamically executed to fetch and display data.\
 **Database Design Tables**
-***1.Rooms:**\
+***1.Rooms:**
 •RoomID: Primary key\
 •RoomNumber: Unique identifier for each room\
 •RoomType: Type of room (e.g., Single, Double, Suite)\
 •PricePerNight: Cost per night for the room\
-**2.Customers:**\
+**2.Customers:**
 •CustomerID: Primary key\
 •CustomerName: Name of the customer\
 •Email: Email address of the customer\
