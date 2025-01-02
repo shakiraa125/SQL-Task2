@@ -17,7 +17,7 @@ payments..\
 - MySQL
 - Visual Studio Code
 - ### **Project Overview:**
-The Hotel Booking Management System is a comprehensive application designed to manage hotel 
+The Hotel Booking Management System is designed to manage hotel 
 operations, including room management, customer data, reservations, and payments. The system leverages 
 a MySQL database for backend operations and a Python-based GUI using Tkinter for user interaction. It 
 features a clean, user-friendly interface and enables users to view and manage key hotel-related data 
