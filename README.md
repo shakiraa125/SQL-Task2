@@ -41,11 +41,11 @@ Buttons to view details for rooms, customers, reservations, and payments.\
 Pop-up windows displaying database tables with a clean and scrollable layout.\
 Light blue theme for the GUI with a bold header.\
 **System Architecture Frontend**\
-**•Python Tkinter:**
+**•Python Tkinter:**\
 • Used for designing the graphical user interface (GUI).\
 • Includes buttons, labels, and tree views for displaying data.
-**Backend**
-**•MySQL Database:**
+**Backend**\
+**•MySQL Database:**\
 • Four tables: Rooms, Customers, Reservations, and Payments.\
 • Queries are dynamically executed to fetch and display data.\
 **Database Design Tables**
