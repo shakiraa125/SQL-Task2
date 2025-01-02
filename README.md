@@ -2,7 +2,7 @@
 Company:CODETECH IT SOLUTION\
 ID:CT12FDE\
 Domain:SQL\
-Duration:December 20th, 2024 to February 20th, 2025**\
+Duration:December 20th, 2024 to February 20th, 2025**
 ## Hotel Booking Management System 
 ---
 **TASK:**
